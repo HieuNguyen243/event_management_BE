@@ -1,0 +1,12 @@
+POST /api/users/employee
+Content-Type: application/json
+Authorization: Bearer jdvsfvhfhjdfhkjdskjdsdfs 
+
+{
+  "username": "employee2",
+  "password": "password123",
+  "employeeCode": "EMP002",
+  "name": "Phạm Thị B",
+  "email": "employee2@example.com",
+  "phone": "0901234570"
+}
